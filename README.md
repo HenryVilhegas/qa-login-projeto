@@ -27,4 +27,4 @@ Os casos de teste estão documentados no diretório
 Este projeto não representa um sistema bancário real e foi criado exclusivamente para fins educacionais e prática em QA.
 
 ## Autor
-Henry Vilhegas
+Henry Silva
